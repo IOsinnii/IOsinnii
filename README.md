@@ -1,6 +1,6 @@
 # Ivan Osinnii
 
-Computational biology and metabolomics. Writing and sharing analyses on the blog.
+Computational biology, data science learner.
 
 ## Latest post
 
